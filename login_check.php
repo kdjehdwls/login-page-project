@@ -29,8 +29,8 @@ if ($is_match_password === false){
     header("Location: /loginfail.php");
     exit();
 }
-
+//로그인 성공
 session_start();
 $_SESSION['member_id'] = $member_data[0]['id'];
 
-//header("Location: /afterlogin.php");
+header("Location: /afterlogin.php");

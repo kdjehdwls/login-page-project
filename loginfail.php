@@ -6,7 +6,7 @@
   <title>Document</title>
 </head>
 <body>
-  Login Fail
- 
+  <h2>Login Fail!</h2>
+  You are not a member or your password is incorrect.
 </body>
 </html>
