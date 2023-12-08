@@ -1,5 +1,7 @@
-# login-page-project
-간단한 로그인 기능이 포함된 php페이지
+\login-page-project
+
+\\ 프로젝트 소개
+간단한 로그인 기능이 포함된 php페이지<br/>
 
 login.php : 로그인 화면<br/>
 db.php : db 연결<br/>
