@@ -2,7 +2,7 @@
 //db 접속함수
 function db_get_pdo()
 {
-    $host = 'localhost';
+    $host = 'kdjehdwls.ddns.net';
     $port = '3306';
     $dbname = 'loginpage';
     $charset = 'utf8';
