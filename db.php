@@ -27,3 +27,4 @@ function db_select($query, $param=array()){
         $pdo = null;
     }
 }
+?>
