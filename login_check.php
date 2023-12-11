@@ -34,3 +34,4 @@ session_start();
 $_SESSION['member_id'] = $member_data[0]['id'];
 
 header("Location: /afterlogin.php");
+?>
